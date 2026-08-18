@@ -1,0 +1,10 @@
+C:\Users\SomeOne\Downloads\VSProjects\ActiveBROGym\ActiveBROGym\bin\Debug\ActiveBROGym.exe.config
+C:\Users\SomeOne\Downloads\VSProjects\ActiveBROGym\ActiveBROGym\bin\Debug\ActiveBROGym.exe
+C:\Users\SomeOne\Downloads\VSProjects\ActiveBROGym\ActiveBROGym\bin\Debug\ActiveBROGym.pdb
+C:\Users\SomeOne\Downloads\VSProjects\ActiveBROGym\ActiveBROGym\obj\Debug\ActiveBROGym.csproj.AssemblyReference.cache
+C:\Users\SomeOne\Downloads\VSProjects\ActiveBROGym\ActiveBROGym\obj\Debug\ActiveBROGym.Properties.Resources.resources
+C:\Users\SomeOne\Downloads\VSProjects\ActiveBROGym\ActiveBROGym\obj\Debug\ActiveBROGym.csproj.GenerateResource.cache
+C:\Users\SomeOne\Downloads\VSProjects\ActiveBROGym\ActiveBROGym\obj\Debug\ActiveBROGym.csproj.CoreCompileInputs.cache
+C:\Users\SomeOne\Downloads\VSProjects\ActiveBROGym\ActiveBROGym\obj\Debug\ActiveBROGym.exe
+C:\Users\SomeOne\Downloads\VSProjects\ActiveBROGym\ActiveBROGym\obj\Debug\ActiveBROGym.pdb
+C:\Users\SomeOne\Downloads\VSProjects\ActiveBROGym\ActiveBROGym\obj\Debug\ActiveBROGym.formActiveBRO.resources
